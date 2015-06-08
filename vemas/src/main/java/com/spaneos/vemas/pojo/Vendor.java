@@ -1,9 +1,10 @@
 package com.spaneos.vemas.pojo;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Vendor {
+public class Vendor implements Serializable {
 	private int id;
 	private String vendorCode;
 	private String vendorType;

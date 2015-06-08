@@ -958,6 +958,7 @@ public class AdminServlet extends HttpServlet {
 					row.createCell((short) 2).setCellValue(i.getVendorCategory()); 
 					row.createCell((short) 3).setCellValue(i.getVendorAddress()); 
 					row.createCell((short) 4).setCellValue(i.getVendorMobileNumber());
+					 
 					row.createCell((short) 5).setCellValue(i.getVendorWebsite());
 					} 
 				 ServletOutputStream fileOut = resp.getOutputStream();

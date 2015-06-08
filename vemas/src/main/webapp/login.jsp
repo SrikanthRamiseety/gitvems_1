@@ -102,7 +102,7 @@ float: left;
 							<h1 style="color: rgb(83, 131, 178);" class="">Login</h1>
 						 <br>
 						 <br>
-					 <h4 style="color: lime;" >Sign in with your Spaneos Ids </h4>
+					 <h4 style="color:maroon;" >Sign in with your SpaneosIds </h4>
 					 <br>
 							<form name='loginForm'
 								action="<c:url value='/j_spring_security_check' />"

@@ -84,7 +84,7 @@ background-image: url("../images/458.jpg");
 				<div class="panel panel-primary " id="panel">
 					<div class="panel-heading">
 						<div class="panel-title">
-							<h4>Up loading billes</h4>
+							<h4>Up Loading Bills</h4>
 						</div>
 					</div>
 					<div class="panel-body">

@@ -63,7 +63,7 @@ $(function(){
 </script>
 <style type="text/css">
 #book{
-background-image: url("../images/121.jpg");
+background-image: url("../images/download.jpg");
 
 }
 

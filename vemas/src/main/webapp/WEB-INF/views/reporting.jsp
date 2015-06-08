@@ -80,6 +80,7 @@
 			 	</div>
 		</div>
 	</nav>
+	<hr>	
 		<!-- /. NAV TOP  -->
 	<div id="wrapper">
 		<nav class="navbar-default navbar-side" role="navigation">
@@ -153,5 +154,6 @@
 		<script src="../js/custom.js"></script>
 
 	</div>
+	<%@ include file="footer.jsp" %>
 </body>
 </html>
