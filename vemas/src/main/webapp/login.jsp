@@ -148,6 +148,6 @@ float: left;
 					</div>
 				 </div>
 				 </div>
-	 
+	 <%@ include file="footer.jsp" %>
 </body>
 </html>
